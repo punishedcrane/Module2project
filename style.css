@@ -1,0 +1,24 @@
+.custom-navbar-effect{
+    background-color: lightgreen;
+    color: white;
+}
+
+.custom-navbar-font{
+    color: white;
+    font-weight: 300;
+    font-family: Courier Prime;
+    text-shadow: 
+    2px 2px 0 black,
+   -2px 2px 0 black,
+    2px -2px 0 black,
+   -2px -2px 0 black,
+    0px 2px 0 black,
+    0px -2px 0 black,
+    2px 0px 0 black,
+   -2px 0px 0 black;
+
+}
+ 
+custom-navbar-link-effects a {
+    color: darkgreen;
+}
